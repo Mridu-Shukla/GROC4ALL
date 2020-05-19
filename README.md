@@ -1,4 +1,5 @@
 # Groc4All - An E-Commerce Website
+   An Online Grocery Shopping Store build to meet the needs of people specially old one's during the crisis period of Pandemic like COVID-19.
 
 ## Features
 	1. Full Authentication via face-recognition
@@ -22,7 +23,7 @@ Clone the project repository
 
 ``` bash
 # change directory
-$ cd IBM_HACK
+$ cd GROC4ALL
 
 # Setup Virtual Environment(LINUX)
 $ virtualenv venv
